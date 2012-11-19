@@ -1,3 +1,5 @@
 # 待辦
-1. 將專案 "RubyDemo" 放入 Github 中.
-2. How to write a file by using the Ruby ???
+1. 將專案 "RubyDemo" 放入 Github 中. => OK
+2. How to write a file by using the Ruby ??? 
+   => OK, 但如何決定寫檔路徑 ???
+   => 可為下次待辦事項.
